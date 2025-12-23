@@ -1,0 +1,5 @@
+{
+  "name": "WikiSpeedrun AI",
+  "description": "An automated Wikipedia speedrun game where Gemini AI navigates from a starting page to a target page using only forward links. No back button allowed!",
+  "requestFramePermissions": []
+}
