@@ -100,7 +100,16 @@ I built this project to visualize the reasoning capabilities of different LLMs (
 | **Claude** | Natural language nuance | Abstract target concepts |
 | **Vectors** | Pure mathematical similarity | Finding direct semantic neighbors (Run locally!) |
 
-## 🛡️ License
+## � Privacy & Security
+
+**Your API keys are safe.**
+
+- **Client-Side Only**: This application runs entirely in your browser. No backend server stores or processes your data.
+- **Direct API Communication**: Your API keys are used solely to make direct requests from your browser to the AI providers (Google, OpenAI, Anthropic).
+- **No Persistence**: Keys entered in the UI are kept in memory and are cleared upon refresh (unless configured in your local `.env` file).
+- **Open Source**: The code is transparent—feel free to inspect `App.tsx` and the `services/` folder to verify how keys are handled.
+
+## �🛡️ License
 
 This project is open source and available under the [MIT License](LICENSE).
 
