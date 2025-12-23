@@ -106,4 +106,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Built with ❤️ by [Vedant Goyal](https://github.com/Vedant6oyal)*
+*Built by [Vedant Goyal](https://github.com/Vedant6oyal)*
